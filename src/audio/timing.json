@@ -1,0 +1,350 @@
+{
+  "totalDuration": 468.76734999999996,
+  "segments": [
+    {
+      "id": "s1",
+      "speaker": "ANA",
+      "text": "Tratores bloqueando estrada. Estudantes acampados na frente do Parlamento. Professores e médicos de greve. A Grécia, que saiu de uma das maiores crises da Europa, voltou para as ruas. E isso não é só um problema grego: faz parte de uma onda que atravessa o continente. Hoje a gente conversa sobre o que está por trás: política, dinheiro e o que vem pela frente. Vamos nessa.",
+      "section": "abertura",
+      "start": 0,
+      "end": 27.193469,
+      "duration": 27.193469,
+      "audio": "./audio/s1.mp3",
+      "broll": "Tratores bloqueando rodovia; tendas diante do Parlamento em Atenas; professores e médicos em greve"
+    },
+    {
+      "id": "s2",
+      "speaker": "CAROL",
+      "text": "Vou resumir em ordem. Fim de novembro de 2025: agricultores começam a bloquear estradas por causa de atrasos em subsídios europeus, depois de um escândalo na agência que paga esse dinheiro, a OPEKEPE. Fevereiro de 2026: atos nos três anos da tragédia de Tempi, o acidente de trem que matou 57 pessoas. Março: protestos contra o gasto militar, com uma bandeira da União Europeia queimada diante do escritório do bloco em Atenas. Setembro: mais de 25 mil pessoas em Salônica contra o custo de vida, segundo a polícia.",
+      "section": "linha-do-tempo",
+      "start": 27.193469,
+      "end": 67.030204,
+      "duration": 39.836735,
+      "audio": "./audio/s2.mp3",
+      "broll": "Gráfico: linha do tempo 2025–2026",
+      "highlight": [
+        "LINHA DO TEMPO 2025–2026",
+        "Nov/2025 · OPEKEPE",
+        "Fev/2026 · Tempi · 57 vítimas",
+        "Mar/2026 · Gasto militar",
+        "Set/2026 · 25 mil em Salônica"
+      ]
+    },
+    {
+      "id": "s3",
+      "speaker": "ANA",
+      "text": "E em outubro?",
+      "section": "linha-do-tempo",
+      "start": 67.030204,
+      "end": 68.310204,
+      "duration": 1.28,
+      "audio": "./audio/s3.mp3"
+    },
+    {
+      "id": "s4",
+      "speaker": "CAROL",
+      "text": "Dia 21. Estudantes, professores e funcionários públicos tomam Atenas. A polícia fala em 5 a 10 mil pessoas só na capital, com atos também em Salônica e Patras. Os manifestantes gritavam “da Grécia à França, queremos educação pública e gratuita”.",
+      "section": "linha-do-tempo",
+      "start": 68.310204,
+      "end": 86.98775499999999,
+      "duration": 18.677551,
+      "audio": "./audio/s4.mp3",
+      "highlight": [
+        "21/10 · 5 a 10 mil em Atenas",
+        "“Da Grécia à França, educação pública e gratuita”"
+      ]
+    },
+    {
+      "id": "s5",
+      "speaker": "HELENA",
+      "text": "E esse grito é o ponto. Há solidariedade com França e Espanha, e a onda chegou também à Itália e à Albânia. A Grécia não está isolada.",
+      "section": "linha-do-tempo",
+      "start": 86.98775499999999,
+      "end": 97.20163299999999,
+      "duration": 10.213878,
+      "audio": "./audio/s5.mp3",
+      "highlight": [
+        "Onda na Europa: França, Espanha, Itália e Albânia"
+      ]
+    },
+    {
+      "id": "s6",
+      "speaker": "RAFAEL",
+      "text": "O paradoxo é este. No papel, a Grécia vai bem: crescimento de 2,1% no ano passado, superávit nas contas e dívida caindo em proporção do PIB. A inflação foi de 2,7% em julho, abaixo dos 3,9% de junho. O governo diz que está entregando.",
+      "section": "economia",
+      "start": 97.20163299999999,
+      "end": 120.006531,
+      "duration": 22.804898,
+      "audio": "./audio/s6.mp3",
+      "highlight": [
+        "CRESCIMENTO 2,1%",
+        "INFLAÇÃO 2,7% (jul)"
+      ],
+      "lowerThird": "Rafael · Economista"
+    },
+    {
+      "id": "s7",
+      "speaker": "ANA",
+      "text": "Mas a rua discorda.",
+      "section": "economia",
+      "start": 120.006531,
+      "end": 121.67836799999999,
+      "duration": 1.671837,
+      "audio": "./audio/s7.mp3"
+    },
+    {
+      "id": "s8",
+      "speaker": "RAFAEL",
+      "text": "Porque o salário médio, uns 1.500 euros, segundo a Reuters, continua no nível de 2009. A Grécia tem o segundo menor salário médio da União Europeia e o segundo maior aumento de aluguel. A dívida da crise, que levou a três resgates de cerca de 290 bilhões de euros entre 2009 e 2018, deixou cicatrizes. Na educação, o país gastou 3,3% do PIB em 2023, contra 4,7% da média europeia, e os sindicatos falam em 15 mil professores a menos no secundário.",
+      "section": "economia",
+      "start": 121.67836799999999,
+      "end": 162.74285799999998,
+      "duration": 41.06449,
+      "audio": "./audio/s8.mp3",
+      "highlight": [
+        "Salário médio ~€1.500 (nível de 2009)",
+        "Educação: 3,3% do PIB vs 4,7% média UE",
+        "15 mil professores a menos no secundário"
+      ]
+    },
+    {
+      "id": "s9",
+      "speaker": "HELENA",
+      "text": "O governo responde com números também. Cita mais de 733 milhões de euros em moradia estudantil e obras em escolas, cerca de 1 bilhão em ajuda contra a alta de energia e um plano de cerca de 30 medidas, de tributos a salários, que custaria 3,5 bilhões até 2030. Os críticos dizem que é pouco e chega perto de eleição.",
+      "section": "economia",
+      "start": 162.74285799999998,
+      "end": 189.25714399999998,
+      "duration": 26.514286,
+      "audio": "./audio/s9.mp3",
+      "highlight": [
+        "733 milhões euros moradia estudantil",
+        "~1 bilhão ajuda energia",
+        "3,5 bilhões plano até 2030"
+      ]
+    },
+    {
+      "id": "s10",
+      "speaker": "RAFAEL",
+      "text": "E tem a defesa. Dados da Otan citados pela imprensa põem o gasto militar grego em 3,65% do PIB, entre os mais altos da aliança. Parte do eleitorado apoia, por causa da tensão com a Turquia. Outra parte pergunta por que o dinheiro não vai para hospitais e escolas.",
+      "section": "economia",
+      "start": 189.25714399999998,
+      "end": 210.938777,
+      "duration": 21.681633,
+      "audio": "./audio/s10.mp3",
+      "highlight": [
+        "Gasto militar 3,65% do PIB (Otan)"
+      ]
+    },
+    {
+      "id": "s11",
+      "speaker": "NIKOS",
+      "text": "Eu olho para o campo, e lá o estopim foi o escândalo da OPEKEPE. A Procuradoria Europeia apontou 324 pessoas que teriam recebido 19,6 milhões de euros de forma ilegal. Resultado: o dinheiro de quem trabalha direito atrasou também. Os produtores reclamam de combustível e energia caros, de preço baixo, como no azeite, e da diferença entre o que recebem e o que o consumidor paga na prateleira. Muitos temem a concorrência do acordo comercial da UE com países sul-americanos, o Mercosul.",
+      "section": "campo",
+      "start": 210.938777,
+      "end": 252.368981,
+      "duration": 41.430204,
+      "audio": "./audio/s11.mp3",
+      "broll": "Bloqueio em Nikaia, perto de Larissa; fila de caminhões na fronteira",
+      "highlight": [
+        "OPEKEPE: 324 pessoas, 19,6 milhões € irregulares",
+        "Concorrência do Mercosul"
+      ]
+    },
+    {
+      "id": "s12",
+      "speaker": "ANA",
+      "text": "O governo diz o quê?",
+      "section": "campo",
+      "start": 252.368981,
+      "end": 254.040818,
+      "duration": 1.671837,
+      "audio": "./audio/s12.mp3"
+    },
+    {
+      "id": "s13",
+      "speaker": "NIKOS",
+      "text": "Que os subsídios estão em nível recorde, 3,7 bilhões de euros em 2025, e que bloquear estrada não ajuda os próprios agricultores. Só que a Comissão Europeia mandou a Grécia abrir mão de cerca de 400 milhões de euros em 2026, mais de 20% dos pagamentos diretos, e o governo prometeu extinguir a OPEKEPE até o fim do ano. Os agricultores exigem fiscalização forte e não querem a agência absorvida pela Receita.",
+      "section": "campo",
+      "start": 254.040818,
+      "end": 290.899594,
+      "duration": 36.858776,
+      "audio": "./audio/s13.mp3",
+      "highlight": [
+        "Subsídios recorde: 3,7 bilhões € (2025)",
+        "Perda de ~400 milhões € (2026, >20%)",
+        "Fim da OPEKEPE até o fim do ano"
+      ]
+    },
+    {
+      "id": "s14",
+      "speaker": "HELENA",
+      "text": "Politicamente, é o seguinte. Kyriakos Mitsotakis está no poder desde 2019 e as eleições devem ocorrer na primavera ou em meados de 2027. O governo carrega o peso de Tempi, do caso de espionagem com o software Predator e da OPEKEPE. O premiê diz que a Grécia não vai voltar à instabilidade social dos anos de austeridade.",
+      "section": "politica",
+      "start": 290.899594,
+      "end": 316.630206,
+      "duration": 25.730612,
+      "audio": "./audio/s14.mp3",
+      "broll": "Kyriakos Mitsotakis; Parlamento grego",
+      "highlight": [
+        "ELEIÇÕES PREVISTAS PARA 2027",
+        "Mitsotakis no poder desde 2019"
+      ]
+    },
+    {
+      "id": "s15",
+      "speaker": "ANA",
+      "text": "E a oposição?",
+      "section": "politica",
+      "start": 316.630206,
+      "end": 318.014696,
+      "duration": 1.38449,
+      "audio": "./audio/s15.mp3"
+    },
+    {
+      "id": "s16",
+      "speaker": "HELENA",
+      "text": "Fragmentada. Por isso a energia das ruas não vira voto automaticamente. A Nova Democracia segue como o maior partido, em torno de 25% a 30% nas pesquisas, mas análises dizem que governar sozinha ficou mais difícil: seriam necessários cerca de 36% a 37% dos votos para uma maioria própria no sistema grego.",
+      "section": "politica",
+      "start": 318.014696,
+      "end": 344.685716,
+      "duration": 26.67102,
+      "audio": "./audio/s16.mp3",
+      "highlight": [
+        "Nova Democracia ~25% a 30%",
+        "36% a 37% para maioria própria"
+      ]
+    },
+    {
+      "id": "s17",
+      "speaker": "CAROL",
+      "text": "E os protestos mudam o tom do governo. Em setembro vieram as promessas de corte de impostos e aumento de salários. Em outubro, a ministra da Educação disse que está ouvindo os estudantes. Pressão de rua vira agenda.",
+      "section": "politica",
+      "start": 344.685716,
+      "end": 359.366532,
+      "duration": 14.680816,
+      "audio": "./audio/s17.mp3",
+      "highlight": [
+        "Pressão de rua vira agenda do governo"
+      ]
+    },
+    {
+      "id": "s18",
+      "speaker": "RAFAEL",
+      "text": "Na economia, 2026 é o ano em que o fundo europeu de recuperação começa a acabar. Há quem fale em “efeito penhasco”: como crescer sem esse dinheiro? Com a dívida perto de 360 bilhões de euros, qualquer promessa de gasto na eleição tem de caber nas regras fiscais. E a tensão no Oriente Médio mexe com a energia, que já pesa no bolso.",
+      "section": "consequencias",
+      "start": 359.366532,
+      "end": 385.724083,
+      "duration": 26.357551,
+      "audio": "./audio/s18.mp3",
+      "highlight": [
+        "Fundo europeu de recuperação acaba em 2026",
+        "“Efeito penhasco”",
+        "Dívida perto de 360 bilhões €"
+      ]
+    },
+    {
+      "id": "s19",
+      "speaker": "NIKOS",
+      "text": "No campo, o risco é perder fundos e confiança. Bloqueio atrasa exportação e trava fronteira. Se o dinheiro não chega e a reforma da agência demora, o ciclo se repete na próxima safra.",
+      "section": "consequencias",
+      "start": 385.724083,
+      "end": 400.30041,
+      "duration": 14.576327,
+      "audio": "./audio/s19.mp3",
+      "highlight": [
+        "Campo: risco de perder fundos e confiança"
+      ]
+    },
+    {
+      "id": "s20",
+      "speaker": "HELENA",
+      "text": "Na política, o cenário é de coalizões e eleição em dois turnos. E sem confiança na Justiça, o julgamento de Tempi continua sendo um símbolo.",
+      "section": "consequencias",
+      "start": 400.30041,
+      "end": 411.219594,
+      "duration": 10.919184,
+      "audio": "./audio/s20.mp3",
+      "highlight": [
+        "Política: coalizões e eleição em dois turnos",
+        "Julgamento de Tempi: símbolo"
+      ]
+    },
+    {
+      "id": "s21",
+      "speaker": "CAROL",
+      "text": "E tem a juventude. Um estudante contou que o auxílio-aluguel de 120 euros não paga nem metade de um mês. Se jovens não conseguem morar nas cidades, o debate vira: ficam ou emigram? É uma pergunta que analistas e famílias já fazem.",
+      "section": "consequencias",
+      "start": 411.219594,
+      "end": 427.624492,
+      "duration": 16.404898,
+      "audio": "./audio/s21.mp3",
+      "highlight": [
+        "Auxílio-aluguel: 120 € (não paga metade do aluguel)",
+        "Ficam ou emigram?"
+      ]
+    },
+    {
+      "id": "s22",
+      "speaker": "ANA",
+      "text": "Resumindo: a Grécia tem números macroeconômicos melhores, mas salários baixos, aluguel alto e instituições sob desconfiança. O governo aponta crescimento, superávit e pacotes de ajuda. Os manifestantes respondem que isso não chegou ao bolso. As eleições de 2027 vão dizer quem convenceu mais gente.",
+      "section": "fechamento",
+      "start": 427.624492,
+      "end": 450.95183899999995,
+      "duration": 23.327347,
+      "audio": "./audio/s22.mp3"
+    },
+    {
+      "id": "s23",
+      "speaker": "RAFAEL",
+      "text": "Fique de olho em salários e energia.",
+      "section": "fechamento",
+      "start": 450.95183899999995,
+      "end": 453.72081899999995,
+      "duration": 2.76898,
+      "audio": "./audio/s23.mp3"
+    },
+    {
+      "id": "s24",
+      "speaker": "NIKOS",
+      "text": "E nos pagamentos do campo.",
+      "section": "fechamento",
+      "start": 453.72081899999995,
+      "end": 455.99347199999994,
+      "duration": 2.272653,
+      "audio": "./audio/s24.mp3"
+    },
+    {
+      "id": "s25",
+      "speaker": "HELENA",
+      "text": "E em como a oposição se organiza.",
+      "section": "fechamento",
+      "start": 455.99347199999994,
+      "end": 458.76245199999994,
+      "duration": 2.76898,
+      "audio": "./audio/s25.mp3"
+    },
+    {
+      "id": "s26",
+      "speaker": "CAROL",
+      "text": "E nas ruas da Europa, porque essa onda está longe de acabar.",
+      "section": "fechamento",
+      "start": 458.76245199999994,
+      "end": 463.04653399999995,
+      "duration": 4.284082,
+      "audio": "./audio/s26.mp3"
+    },
+    {
+      "id": "s27",
+      "speaker": "ANA",
+      "text": "E você, o que acha? Comenta aqui e segue o perfil para a próxima conversa.",
+      "section": "fechamento",
+      "start": 463.04653399999995,
+      "end": 468.76734999999996,
+      "duration": 5.720816,
+      "audio": "./audio/s27.mp3",
+      "highlight": [
+        "Comenta e segue para a próxima conversa"
+      ]
+    }
+  ]
+}

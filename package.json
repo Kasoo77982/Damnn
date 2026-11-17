@@ -1,0 +1,25 @@
+{
+  "name": "grecia-em-ebulicao",
+  "version": "1.0.0",
+  "description": "Vídeo gerado com Remotion a partir do roteiro 'Grécia em ebulição: a onda de protestos que chegou à Europa'",
+  "private": true,
+  "scripts": {
+    "dev": "remotion vite",
+    "build": "remotion bundle",
+    "typecheck": "tsc --noEmit",
+    "render": "remotion render src/index.tsx GreciaEmEbulicao /artifacts/grecia-em-ebulicao.mp4 --codec h264 --fps 30 --width 1920 --height 1080"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.6.0",
+    "vite": "^5.4.0",
+    "@vitejs/plugin-react": "^4.3.0"
+  }
+}
